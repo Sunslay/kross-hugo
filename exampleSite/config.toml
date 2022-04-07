@@ -1,4 +1,4 @@
-baseURL = "https://florin-tech.netlify.app"
+baseURL = "https://tremmie.netlify.app"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
