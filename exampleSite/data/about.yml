@@ -19,9 +19,9 @@ team:
   enable: true
   title: Our Team
   team_member:
-  - title: Slay Masar
+  - title: Stefan
     image: images/team/member-1.png
-    designation: 'Web developer '
+    designation: Project Manager
   - title: Slay Masar
     image: images/team/member-2.png
     designation: Web Developer
