@@ -19,8 +19,11 @@ team:
   enable: true
   title: Our Team
   team_member:
+  - title: De
+    image: ''
+    designation: ''
   - title: Stefan
-    image: images/team/member-1.png
+    image: "/images/member-1.png"
     designation: Project Manager
   - title: Slay Masar
     image: images/team/member-2.png
