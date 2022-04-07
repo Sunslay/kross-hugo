@@ -19,15 +19,15 @@ team:
   enable: true
   title: Our Team
   team_member:
-  - title: De
-    image: ''
-    designation: ''
   - title: Stefan
     image: "/images/member-1.png"
     designation: Web Developer
   - title: Slay Masar
-    image: images/team/member-2.png
+    image: "/images/member.png"
     designation: Web Developer
+  - title: De
+    image: ''
+    designation: ''
 clients_logo_slider:
   enable: true
   title: My Clients
