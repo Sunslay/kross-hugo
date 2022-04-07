@@ -21,7 +21,7 @@ name = "Contact"
 weight = 4
 [params]
 address = "125/A, CA Commercial Area, California, USA"
-author = "Johnathan Smith"
+author = "Slay Masar"
 baidu_analytics_id = ""
 baidu_site_verification = ""
 copyright = "Copyright &copy; 2022 [tremmie](https://tremmie.netlify.app)"
