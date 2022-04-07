@@ -25,9 +25,9 @@ team:
   - title: Slay Masar
     image: "/images/member.png"
     designation: Web Developer
-  - title: De
-    image: ''
-    designation: ''
+  - title: Jane
+    image: "/images/member-6.png"
+    designation: 'Web designer '
 clients_logo_slider:
   enable: true
   title: My Clients
